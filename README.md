@@ -1,6 +1,6 @@
 # 📦 ViaRota — Sistema Inteligente de Entregas
 
-O **ViaRota** é um sistema moderno de rastreamento de entregas, desenvolvido com **React**, **Bootstrap** e **Leaflet**, combinando uma interface elegante com funcionalidades robustas de geolocalização. Inspirado no design minimalista da Apple, oferece uma experiência fluida e visualmente impactante para o usuário final.
+O **ViaRota** é um sistema moderno de rastreamento de entregas, desenvolvido com **React**, **Bootstrap** e **Leaflet**, combinando uma interface elegante com funcionalidades robustas de geolocalização. oferece uma experiência fluida e visualmente impactante para o usuário final.
 
 ---
 
