@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "destinatario": "João Silva",
+    "endereco": "Av. Central, 123, Brasília - DF",
+    "latitude": -15.793889,
+    "longitude": -47.882778,
+    "status": "pendente"
+  },
+  {
+    "id": "2",
+    "destinatario": "Maria Oliveira",
+    "endereco": "Rua das Flores, 456, São Paulo - SP",
+    "latitude": -23.55052,
+    "longitude": -46.633308,
+    "status": "pendente"
+  }
+]

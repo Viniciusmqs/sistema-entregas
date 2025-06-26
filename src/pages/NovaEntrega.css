@@ -1,0 +1,46 @@
+.nova-entrega-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+}
+
+.nova-entrega-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.nova-entrega-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.nova-entrega-form input {
+  padding: 12px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.nova-entrega-form button {
+  padding: 12px;
+  background-color: #007bff;
+  border: none;
+  color: rgb(0, 78, 245);
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 4px;
+}
+
+.nova-entrega-form button:hover {
+  background-color: #0056b3;
+}
+
+.btn btn-viarota w-100{
+  color: #0056b3;
+}
