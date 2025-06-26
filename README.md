@@ -1,12 +1,54 @@
-# React + Vite
+# 📦 ViaRota — Sistema Inteligente de Entregas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O **ViaRota** é um sistema moderno de rastreamento de entregas, desenvolvido com **React**, **Bootstrap** e **Leaflet**, combinando uma interface elegante com funcionalidades robustas de geolocalização. Inspirado no design minimalista da Apple, oferece uma experiência fluida e visualmente impactante para o usuário final.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades
 
-## Expanding the ESLint configuration
+- 📍 Rastreamento de entregas em tempo real no mapa
+- 🚚 Estimativa de tempo baseada em geolocalização atual
+- 🧭 Cards dinâmicos e responsivos com ícones e status visuais
+- 🧾 Cadastro inteligente com sugestões automáticas de endereço
+- 🖥️ Layout 100% responsivo com design moderno e premium
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Pré-visualizações
+
+### Tela Inicial com Cards Inteligentes
+![Preview Home](./src/assets/preview-via-rota-1.png)
+
+### Tela de Rastreamento em Tempo Real
+![Preview Rastreamento](./src/assets/preview-via-rota-2.png)
+
+---
+
+## 🧪 Tecnologias Utilizadas
+
+- ⚛️ React + Vite
+- 🗺️ React Leaflet + Leaflet Routing Machine
+- 🎨 Bootstrap 5 + Bootstrap Icons
+- 🌐 OpenStreetMap (geolocalização e rotas)
+- 📦 localStorage (simulação de banco de dados)
+
+---
+
+## 🚀 Como rodar localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/Viniciusmqs/sistema-entregas.git
+cd sistema-entregas
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
+npm run dev
+
+👨‍💻 Autor
+Desenvolvido por Vinicius Marques
+
+📄 Licença
+Este projeto está sob a licença MIT.
